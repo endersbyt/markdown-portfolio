@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Girl at Sunset](http://www.timendersby.com/assets/images/people/IMG_0303.jpg)
