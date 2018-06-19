@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Go to RIT
+2. Get a good job
+3. Profit
